@@ -1,6 +1,10 @@
 # mlpack-reinforcement-learning
 Reinforcement learning implementation based on recent ideas using mlpack
 
+# Objectives
+1. Implementation of recent reinforcement learning algorithm using mlpack
+2. Performance research that shows benchmark among the algorithms
+
 # References
 - [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
 - [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)
