@@ -1,6 +1,11 @@
 # mlpack-reinforcement-learning
 Reinforcement learning implementation based on recent ideas using mlpack
 
+# TODO List
+
+# Done List
+- Connection to an OpenAI Gym REST API.
+
 # Objectives
 1. Implementation of recent reinforcement learning algorithm using mlpack
 2. Performance research that shows benchmark among the algorithms
