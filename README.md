@@ -3,7 +3,7 @@ Reinforcement learning implementation based on recent ideas using mlpack
 
 # TODO List
 
-# Done List
+# DONE List
 - Connection to an OpenAI Gym REST API.
 
 # Objectives
