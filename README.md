@@ -34,6 +34,6 @@ Papers
 
 Books
 <div>
-    <img align="left" img src="images/ml.jpg", width="219">
+    <img align="left" img src="images/ml.jpg", width="200">
     <img align="left" img src="images/c++_template.jpg", width="228">
 </div>
