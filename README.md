@@ -19,5 +19,5 @@ Reinforcement learning implementation based on recent ideas using mlpack
 
 <div>
     <img align="left" img src="images/ml.jpg", width="219">
-    <img align="left" img src="images/c++_template", width="219">
+    <img align="left" img src="images/c++_template.jpg", width="219">
 </div>
