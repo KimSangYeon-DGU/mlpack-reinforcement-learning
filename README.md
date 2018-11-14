@@ -1,4 +1,4 @@
-# Mlpack Reinforcement Learning Implementation
+# Mlpack reinforcement learning algorithm implementation
 Reinforcement learning implementation based on recent ideas using mlpack
 
 # TODO List
