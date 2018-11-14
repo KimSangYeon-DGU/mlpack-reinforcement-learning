@@ -7,6 +7,18 @@ Reinforcement learning implementation based on recent ideas using mlpack
 # DONE List
 - Connection to an OpenAI Gym REST API.
 
+# TIMELINE
+- Week1(11/11 ~ 11/17)
+    - Apprehend mlpack codebase.
+    - Study c++ template metaprogramming.
+    
+- Week2(11/18 ~ 11/24)
+    - Select one paper about Reinforcement learning.
+    - Read and implement the algorithms.
+
+- Week3(11/14 ~ 12/1)
+    - Compare performance difference between existing RL algorithm and new algorithm.
+
 # Objectives
 1. Implementation of recent reinforcement learning algorithm using mlpack
 2. Performance research that shows benchmark among the algorithms
