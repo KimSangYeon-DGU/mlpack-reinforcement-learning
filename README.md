@@ -16,3 +16,8 @@ Reinforcement learning implementation based on recent ideas using mlpack
 - [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)
 - [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 - [Increasing the Action Gap: New Operators for Reinforcement Learning](https://arxiv.org/abs/1512.04860)
+
+<div>
+    <img align="left" img src="images/ml.jpg", width="219">
+    <img align="left" img src="images/c++_template", width="219">
+</div>
